@@ -3,18 +3,18 @@ site_url: https://github.com/mvishwa27/MkDocs_Project1/
 base_url: test1
 
 nav:
-   - Home: index.md
-   - About: about.md
+   - Home: /source/docs/documentation/index.md
+   - About: /source/docs/documentation/about.md
    - Iris: 
-         - iris1.md
-         - iris2.md
-         - iris3:
-                - iris3.1.md
-                - iris3.2.md
+         - /source/docs/documentation/iris1.md
+         - /source/docs/documentation/iris2.md
+         - /source/docs/documentation/iris3.1.md
+         - /source/docs/documentation/iris3.2.md
          - iris4:
-                - iris/iris4/iris4.1.md         
+                - /source/docs/documentation/iris/iris4/iris4.1.md        
          - iris5:
-                - iris/iris5/iris5.1.md
+                # - iris/iris5/iris5.1.md
+                - /source/docs/documentation/iris/iris5/iris5.1.md
 
 # Repository
 repo_name: https://github.com/mvishwa27
