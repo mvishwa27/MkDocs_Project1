@@ -1,19 +1,21 @@
 site_name: Vishwanathan
 site_url: https://github.com/mvishwa27/MkDocs_Project1/
+docs_dir: source
+site_dir: docs
 
 nav:
-   - Home: /source/docs/documentation/index.md
-   - About: /source/docs/documentation/about.md
+   - Home: docs/documentation/index.md
+   - About: source/docs/documentation/about.md
    - Iris: 
-         - /source/docs/documentation/iris1.md
-         - /source/docs/documentation/iris2.md
-         - /source/docs/documentation/iris3.1.md
-         - /source/docs/documentation/iris3.2.md
+         - docs/documentation/iris1.md
+         - docs/documentation/iris2.md
+         - docs/documentation/iris3.1.md
+         - docs/documentation/iris3.2.md
          - iris4:
-                - /source/docs/documentation/iris/iris4/iris4.1.md        
+                - docs/documentation/iris/iris4/iris4.1.md        
          - iris5:
                 # - iris/iris5/iris5.1.md
-                - /source/docs/documentation/iris/iris5/iris5.1.md
+                - docs/documentation/iris/iris5/iris5.1.md
 
 # Repository
 repo_name: https://github.com/mvishwa27
