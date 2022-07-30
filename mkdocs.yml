@@ -1,9 +1,9 @@
 site_name: Vishwanathan
 site_url: https://github.com/mvishwa27/MkDocs_Project1/
-# docs_dir: source
-# site_dir: docs
-docs_dir: source/docs/documentation
-site_dir: docs/docs/documentation
+docs_dir: source
+site_dir: docs
+# docs_dir: source/docs/documentation
+# site_dir: docs/docs/documentation
 
 nav:
    - Home: docs/documentation/index.md
