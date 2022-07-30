@@ -1,6 +1,5 @@
 site_name: Vishwanathan
 site_url: https://github.com/mvishwa27/MkDocs_Project1/
-base_url: test1
 
 nav:
    - Home: /source/docs/documentation/index.md
