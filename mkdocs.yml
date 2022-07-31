@@ -58,7 +58,7 @@ theme:
         accent: lime 
 
 extra: 
-   homepage: https://github.com/mvishwa27/MkDocs_Project1/docs/documentation
+   homepage: https://mvishwa27.github.io/MkDocs_Project1/docs/documentation/
    social:
       - icon: fontawesome/brands/github-alt
         link: https://github.com/mvishwa27 
