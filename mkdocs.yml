@@ -35,6 +35,7 @@ repo_url: https://github.com/mvishwa27/MkDocs_Project1
 
 theme:
    name: material
+   logo: docs/documentation/assets/favicon.png
    # features:
       # - navigation.tabs
       # - navigation.sections
