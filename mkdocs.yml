@@ -2,6 +2,12 @@ site_name: Vishwanathan
 site_url: https://github.com/mvishwa27/MkDocs_Project1/
 docs_dir: source
 site_dir: docs
+site_author: VISHWANATHAN
+site_description: Site built using MkDocs
+
+
+
+
 # docs_dir: source/docs/documentation
 # site_dir: docs/docs/documentation
 
