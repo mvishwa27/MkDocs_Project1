@@ -58,6 +58,9 @@ theme:
         primary: teal
         accent: lime 
 
+extra_css:
+  - docs/assets/stylesheets/vmx_style.css
+
 extra: 
    homepage: https://www.google.com
    social:
